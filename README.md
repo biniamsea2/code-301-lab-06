@@ -40,3 +40,53 @@ Start time: 9:00am
 Finish time: 1:45pm
 
 Actual time needed to complete: 3.75 hours
+
+
+## Time Estimate
+Number and name of feature: lab7 data formatting 
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 9:10am
+
+Finish time: 10:25
+
+Actual time needed to complete: 1 hour 15 min
+
+
+
+## Time Estimate
+Number and name of feature: lab7 location
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 10:30
+
+Finish time: 12:30
+
+Actual time needed to complete:
+
+
+
+## Time Estimate
+Number and name of feature: lab7 weather
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete:
+
+
+## Time Estimate
+Number and name of feature: lab7 eventbrite 
+
+Estimate of time needed to complete:
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete:
