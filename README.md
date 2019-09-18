@@ -49,20 +49,20 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 9:10am
 
-Finish time: 
+Finish time: 10:25
 
-Actual time needed to complete:
+Actual time needed to complete: 1 hour 15 min
 
 
 
 ## Time Estimate
 Number and name of feature: lab7 location
 
-Estimate of time needed to complete: 1 hour
+Estimate of time needed to complete: 2 hours
 
-Start time: 
+Start time: 10:30
 
-Finish time: 
+Finish time: 12:30
 
 Actual time needed to complete:
 
@@ -83,7 +83,7 @@ Actual time needed to complete:
 ## Time Estimate
 Number and name of feature: lab7 eventbrite 
 
-Estimate of time needed to complete: 1 hour
+Estimate of time needed to complete:
 
 Start time: 
 
