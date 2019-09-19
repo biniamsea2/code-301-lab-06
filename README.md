@@ -71,22 +71,22 @@ Actual time needed to complete:
 ## Time Estimate
 Number and name of feature: lab7 weather
 
-Estimate of time needed to complete: 1 hour
+Estimate of time needed to complete: 2 hour
 
-Start time: 
+Start time: 12:45 pm
 
-Finish time: 
+Finish time: 11:00 am next day
 
-Actual time needed to complete:
+Actual time needed to complete: like 8 hours
 
 
 ## Time Estimate
 Number and name of feature: lab7 eventbrite 
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 2 hours
 
-Start time: 
+Start time: 12:45 pm
 
-Finish time: 
+Finish time: 11:00 am next day
 
-Actual time needed to complete:
+Actual time needed to complete: like 8 hours, we were working on weather and eventrbite at the same time.
